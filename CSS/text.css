@@ -1,0 +1,23 @@
+.text{
+    text-align:end;
+    color:crimson;
+    text-shadow: 10px 10px 10px green;
+    text-decoration:;
+    text-transform: capitalize;
+    text-indent: 50px;
+    text-decoration-line:underline;
+    text-decoration-color:blueviolet;
+    text-decoration-style:solid;
+    text-decoration-thickness:5px;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    line-height: 50px;
+}
+.img1{
+    height: 200px;
+    width:200px;
+    /* position: relative;
+    bottom:300px; */
+    /* margin-left: 700px; */
+    float: right;
+}

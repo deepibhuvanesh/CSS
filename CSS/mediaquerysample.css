@@ -1,0 +1,46 @@
+.div1{
+    background-color: aquamarine;
+    height:800px;
+    width:800px;
+}
+@media screen and (max-width:350px){
+    .div1{
+        background-color: aqua;
+        background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlADLlwZb-WzPtfn3AoO8Dj4HGLIt8mgqGig&usqp=CAU');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    h1{
+        color: brown;
+    }
+    h1{
+        font-size: smaller;
+    }
+}
+@media screen and (max-width:450px){
+    .div1{
+    background-color:blue;
+    }
+}
+@media only screen and (min-width:650px) and (max-width:850px){
+    .div1{
+        background-color: blueviolet;
+         background-image:url('https://m.media-amazon.com/images/I/51QsquBv8DL._SL1200_.jpg');
+    }
+    h1{
+        color:chartreuse;
+    }
+    h1{
+        font-size: x-large;
+    }
+}
+@media only screen and (min-width:850px) and (max-width:1000px){
+    .div1{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqi5XCclkaZbg7WhYvklUswZOwWgcrVG8XhA&usqp=CAU);
+        }
+    }
+button{
+    background-color: darkorange;
+    font-size: xx-large;
+    
+}

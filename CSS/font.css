@@ -1,0 +1,13 @@
+p{
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 700;
+    font-family: sans-serif;
+    font-variant: small-caps;
+    font-stretch:extra-condensed;
+    line-height:60px ;
+    color:blueviolet;
+    font-kerning:initial;
+    word-spacing: 5px;
+    letter-spacing: 5px;
+} 

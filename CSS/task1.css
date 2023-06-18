@@ -1,0 +1,30 @@
+body{
+    background-color: blueviolet; 
+    background-image: url('https://www.kullu-manali.co.in/wp-content/uploads/2019/07/rohtang-pass-4.jpg');
+    background-repeat:no-repeat;
+    background-size:cover; 
+}
+.one{
+    color:pink;
+    font-size:xx-large;
+}
+.two{
+    color: deepskyblue;
+    font-style: italic;
+    background-color: black;
+}
+img{
+    border: 3px solid yellow;
+}
+#km{
+    background-color: brown;
+}
+/*head{
+    color:darkgreen
+}
+.para{
+    color: greenyellow;
+}
+#para1{
+    color:lightsalmon;
+} */
